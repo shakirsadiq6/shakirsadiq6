@@ -1,6 +1,6 @@
 # Hello, I'm Shakir Sadiq 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=shakirsadiq6&color=green&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/shakirsadiq6)
+[![Profile Views](https://komarev.com/ghpvc/?username=shakirsadiq6&color=green&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/shakirsadiq6)<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shakirsadiq6&theme=dark)](https://github.com/)
 
 I'm a passionate [your profession or field] from [your location]. Welcome to my GitHub profile! 
