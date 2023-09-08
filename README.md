@@ -1,9 +1,36 @@
-- 👋 Hi, I’m @Shakirsadiq6
-- 🌱 I’m a Programmer(Python Developer, Golang Developer and ML Engineer) and I mostly work on machine learning projects, basic to advance projects of Python.
-- SKILLS: Python3, Golang, MongoDB, Postgresql, Git, Flask, Machine Learning, Aritificial Intelligence, Computer Vision, HTML5, CSS, Keras, TensorFlow.
+# Hello, I'm Shakir Sadiq 👋
 
-![](https://komarev.com/ghpvc/?username=shakirsadiq6&color=green&style=for-the-badge&label=PROFILE+VIEWS)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakirsadiq6&" alt="priyanshi-2001" /></p>
+[![Profile Views](https://komarev.com/ghpvc/?username=shakirsadiq6&color=green&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/shakirsadiq6)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shakirsadiq6&theme=dark)](https://github.com/)
+
+I'm a passionate [your profession or field] from [your location]. Welcome to my GitHub profile! 
+
+## 🔧 Technologies & Tools
+
+- 💻 I'm proficient in Python3 and Golang.
+- 🌐 I enjoy working with AI, ML, Web Development, DJango, Flask, Git etc.
+- 📚 I'm constantly learning and exploring new things.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakirsadiq6&show_icons=true&theme=radical)
+
+## 🌟 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shakirsadiq6&theme=darkhub)](https://github.com/shakirsadiq6)
+
+## 📬 Contact Me
+
+- 📧 Email: [shakirsadiq24@gmail.com](mailto:shakirsadiq24@gmail.com)
+- 📷 Instagram: [@shakirsadiq6](https://www.instagram.com/shakirsadiq6)
+- 💼 LinkedIn: [Shakir Sadiq](https://www.linkedin.com/in/shakir-sadiq-35720a19b)
+
+## 💼 Project Showcases
+
+- [Project 1](https://github.com/Shakirsadiq6/emotion-classification-sentiment-analysis): Emotion and Sentiment Analysis Of Text.
+- [Project 2](https://github.com/Shakirsadiq6/FaceRecognitionAttendanceSystem): Face recognition using Images.
+
+Feel free to explore my repositories and reach out to me if you have any questions or collaboration ideas. Let's connect and build something amazing together! 👯‍♂️
 
 <!---
 Shakirsadiq6/Shakirsadiq6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
