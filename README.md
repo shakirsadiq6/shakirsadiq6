@@ -2,7 +2,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shakirsadiq6&color=green&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/shakirsadiq6)
 
-I'm a passionate [your profession or field] from [your location]. Welcome to my GitHub profile! 
+I'm a passionate developer from Kashmir. Welcome to my GitHub profile! 
 
 ## 🔧 Technologies & Tools
 
