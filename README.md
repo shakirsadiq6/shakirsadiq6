@@ -7,7 +7,7 @@ I'm a passionate developer from Kashmir. Welcome to my GitHub profile!
 ## 🔧 Technologies & Tools
 
 - 💻 I'm proficient in Python3 and Golang.
-- 🌐 I enjoy working with AI, ML, Web Development, DJango, Flask, Git etc.
+- 🌐 I enjoy working with AI, ML, Web Development, Django, Flask, Git etc.
 - 📚 I'm constantly learning and exploring new things.
 
 ## 📬 Contact Me
